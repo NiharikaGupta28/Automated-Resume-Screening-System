@@ -1,0 +1,19 @@
+John Smith
+
+Education:
+B.Tech Computer Science
+
+Skills:
+Python
+SQL
+Machine Learning
+Natural Language Processing
+Pandas
+Scikit-learn
+
+Experience:
+Completed projects in resume screening and sentiment analysis.
+
+Certifications:
+Python Programming
+Machine Learning Fundamentals

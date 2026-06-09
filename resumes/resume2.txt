@@ -1,0 +1,17 @@
+Alex Johnson
+
+Education:
+B.Tech Information Technology
+
+Skills:
+Python
+SQL
+Excel
+Data Analysis
+Power BI
+
+Experience:
+Worked on data analytics projects using Python and Excel.
+
+Certifications:
+Data Analytics
